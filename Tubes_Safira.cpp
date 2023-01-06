@@ -1,4 +1,4 @@
-//TUGAS BESAR ALGORITMA DAN PEMROGRAMAN KELAS A - SISTEM INFORMASI PENJUALAN TOKO
+//TUGAS BESAR ALGORITMA DAN PEMROGRAMAN- SISTEM INFORMASI PENJUALAN TOKO
 /*-Selection/Seleksi
   -Repetation/Pengulangan
   -Array
@@ -10,7 +10,7 @@
     Nama      : Safira Anjani
     Npm       : 4520210002
     Date      : 16 Desember 2020
-	NO. Tugas : 29
+    NO. Tugas : 29
 */
 #include <iostream>
 #include <windows.h> 
